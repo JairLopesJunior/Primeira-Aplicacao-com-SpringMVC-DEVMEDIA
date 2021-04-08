@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Hello Spring MVC</h1>
+<h3>${variavel}</h3>
 </body>
 </html>
