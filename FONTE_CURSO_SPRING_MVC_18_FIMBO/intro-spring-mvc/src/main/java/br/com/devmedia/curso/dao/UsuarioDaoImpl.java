@@ -4,8 +4,11 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import org.springframework.stereotype.Repository;
+
 import br.com.devmedia.curso.domain.Usuario;
 
+@Repository
 public class UsuarioDaoImpl implements UsuarioDao {
 	
 	private static List<Usuario> us;
