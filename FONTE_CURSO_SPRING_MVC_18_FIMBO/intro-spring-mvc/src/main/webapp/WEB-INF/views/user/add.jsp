@@ -17,7 +17,7 @@
     <div>
 
 		<spring:url value="/usuario/todos" var="home"/>
-		<a class="btn btn-default" href="${home }">Home</a>
+		<a class="btn btn-default" href="${home}">Home</a>
     </div>
     <hr>
     <div>

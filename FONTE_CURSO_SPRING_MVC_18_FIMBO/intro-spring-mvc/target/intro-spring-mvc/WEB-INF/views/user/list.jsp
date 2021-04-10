@@ -53,7 +53,7 @@
     </div>
     <hr>
     <footer class="footer">
-        <p>&copy; 2017 DevMedia</p>
+        <p>&copy; 2021 DevMedia</p>
     </footer>
 </div>
 </body>
